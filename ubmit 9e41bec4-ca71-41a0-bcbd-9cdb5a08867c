@@ -1,0 +1,36 @@
+[33mcommit e474edb13a4d2b43d2a857d8e8e17b374f5339f2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 5ec6969 b954951
+Author: kelueders <kelueders@gmail.com>
+Date:   Wed Jun 19 22:39:00 2024 -0500
+
+    F: Merge branch 'add_classics'
+
+[33mcommit 5ec6969154d223373e8e43dfff3a8d993ffa6ab3[m
+Author: kelueders <kelueders@gmail.com>
+Date:   Wed Jun 19 22:31:09 2024 -0500
+
+    E: add content to contents.md
+
+[33mcommit b954951201d92deffbf8688b407b7a2610d076fc[m
+Author: kelueders <kelueders@gmail.com>
+Date:   Wed Jun 19 22:14:25 2024 -0500
+
+    D: add classics.csv
+
+[33mcommit 0b9ecc5589c4d3d53acdf4820376c8e5a11f60b1[m
+Author: kelueders <kelueders@gmail.com>
+Date:   Thu Jun 13 16:59:49 2024 -0500
+
+    C: add quotes
+
+[33mcommit 2df335b1f1793962b94ac0767519fb7c724a023d[m
+Author: kelueders <kelueders@gmail.com>
+Date:   Thu Jun 13 16:49:00 2024 -0500
+
+    B: add titles
+
+[33mcommit eaeab65a224929fb59dc97b3b9e4666847f5f619[m
+Author: kelueders <kelueders@gmail.com>
+Date:   Thu Jun 13 14:53:13 2024 -0500
+
+    A: add contents.md
